@@ -1,5 +1,3 @@
-# health-coach
-Building AI course project – personal AI idea developed in the Elements of AI course.
 ## Zusammenfassung
 
 Dieses Projekt ist ein KI-Kursprojekt bauen im Rahmen des Kurses „Elements of AI“.  

@@ -1,4 +1,9 @@
-## Summary
+# Gesundheitstrainer
 
-This project is a Building AI course project developed as part of the "Elements of AI" course.  
-The goal is to create a personal AI idea that helps people better understand their health and make healthier decisions in everyday life.
+KI-Kursprojekt bauen – persönliche KI-Idee, entwickelt im Kurs "Elements of AI".
+
+## Zusammenfassung
+
+Dieses Projekt ist ein KI-Kursprojekt bauen im Rahmen des Kurses "Elements of AI".
+Ziel ist es, eine persönliche KI-Idee zu entwickeln, die Menschen dabei unterstützt,
+ihre Gesundheit besser zu verstehen und im Alltag gesündere Entscheidungen zu treffen.
